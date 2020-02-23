@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/getsetgotravels/static/css/main.d1b05096.chunk.css",
-    "main.js": "/getsetgotravels/static/js/main.0280dac0.chunk.js",
-    "main.js.map": "/getsetgotravels/static/js/main.0280dac0.chunk.js.map",
+    "main.js": "/getsetgotravels/static/js/main.04125c71.chunk.js",
+    "main.js.map": "/getsetgotravels/static/js/main.04125c71.chunk.js.map",
     "runtime-main.js": "/getsetgotravels/static/js/runtime-main.ca7a8ac2.js",
     "runtime-main.js.map": "/getsetgotravels/static/js/runtime-main.ca7a8ac2.js.map",
     "static/js/2.34403c2c.chunk.js": "/getsetgotravels/static/js/2.34403c2c.chunk.js",
     "static/js/2.34403c2c.chunk.js.map": "/getsetgotravels/static/js/2.34403c2c.chunk.js.map",
     "index.html": "/getsetgotravels/index.html",
-    "precache-manifest.bdbed91cd55dd6571d2587cb815bbb1c.js": "/getsetgotravels/precache-manifest.bdbed91cd55dd6571d2587cb815bbb1c.js",
+    "precache-manifest.a3743b96c23d90b28098240bdbe24ad1.js": "/getsetgotravels/precache-manifest.a3743b96c23d90b28098240bdbe24ad1.js",
     "service-worker.js": "/getsetgotravels/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/getsetgotravels/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.34403c2c.chunk.js.LICENSE.txt": "/getsetgotravels/static/js/2.34403c2c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ca7a8ac2.js",
     "static/js/2.34403c2c.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.0280dac0.chunk.js"
+    "static/js/main.04125c71.chunk.js"
   ]
 }
