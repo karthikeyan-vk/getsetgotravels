@@ -346,7 +346,7 @@ a#menu-close:hover {
 
 .header {
   display: table;
-  height: 100%;
+  height: 95vh;
   width: 100%;
   position: relative;
   background: url(../img/bg.jpg) no-repeat center center fixed; 
