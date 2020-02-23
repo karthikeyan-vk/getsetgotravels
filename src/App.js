@@ -9,7 +9,8 @@ class App extends React.Component {
     // This binding is necessary to make `this` work in the callback
     this.menuToggle = this.menuToggle.bind(this);
   };
-  menuToggle() {
+  menuToggle(e) {
+    e.preventDefault();
     this.setState(state => ({
       isToggleOn: !state.isToggleOn
     }));
@@ -17,11 +18,11 @@ class App extends React.Component {
   render() {
     return [
         <>
-          <a id="menu-toggle" href="#" className="btn btn-primary btn-lg toggle" onClick={this.menuToggle}><i className="fa fa-bars"></i></a>
+          <a id="menu-toggle" href="#" className="btn btn-primary btn-lg toggle" onClick={(e) => this.menuToggle(e)}><i className="fa fa-bars"></i></a>
           <div id="sidebar-wrapper" className={this.state.isToggleOn ? 'active' : 'inactive'}>
                 <ul className="sidebar-nav">
                     <li>
-                        <a id="menu-close" href="#" className="btn btn-default btn-lg pull-right toggle" onClick={this.menuToggle}>
+                        <a id="menu-close" href="#" className="btn btn-default btn-lg pull-right toggle" onClick={(e) => this.menuToggle(e)}>
                             <i className="fa fa-times"></i>
                         </a>
                     </li>
