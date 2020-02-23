@@ -346,7 +346,7 @@ a#menu-close:hover {
 
 .header {
   display: table;
-  height: 95vh;
+  height: 100vh;
   width: 100%;
   position: relative;
   background: url(../img/bg.jpg) no-repeat center center fixed; 
@@ -823,7 +823,9 @@ i.scroll:hover {
 @media (max-width: 768px) {
   
   .header {
-  background: url(../img/bg.jpg) no-repeat center center scroll; 
+  background: url(../img/bg.jpg) no-repeat scroll; 
+  background-size: 106vh;
+  background-position: 50% 50%;
   }
 
   .callout {
