@@ -27,7 +27,7 @@ class App extends React.Component {
                         </a>
                     </li>
                     <li className="sidebar-brand">
-                        <a href="index.html">Get Set Go Travel's</a>
+                        <a href="index.html">Travel Zero</a>
                         <hr></hr>
                     </li>
                     <li>
