@@ -2,7 +2,7 @@
   "name": "travelzero",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://karthikeyan-vk.github.io/travelzero",
+  "homepage": "http://www.travelzero.in",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
