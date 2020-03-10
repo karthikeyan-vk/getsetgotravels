@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c2159c92457310e087a82ed2e0a2ab9",
+    "revision": "892d9411330357da87794379e03bb75d",
     "url": "/getsetgotravels/index.html"
   },
   {
-    "revision": "015386f10eeb30708413",
+    "revision": "66c64e6dc06d6d019034",
     "url": "/getsetgotravels/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/getsetgotravels/static/js/2.34403c2c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "015386f10eeb30708413",
-    "url": "/getsetgotravels/static/js/main.04125c71.chunk.js"
+    "revision": "66c64e6dc06d6d019034",
+    "url": "/getsetgotravels/static/js/main.60fe6b76.chunk.js"
   },
   {
     "revision": "65716a920d7105792778",
